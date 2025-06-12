@@ -1,6 +1,13 @@
 # Google Search MCP Server
 
-A Model Context Protocol (MCP) server that provides Google search functionality with intelligent result summarization. This server allows AI assistants to search Google and get organized, summarized results.
+A Model Context Protocol (MCP) server that provides Google search functionality with intelligent result summarization. **💰 Save money by using Google's official API directly with 100 free searches per day** - no need for expensive third-party search services!
+
+## 🎯 Key Selling Points
+
+- **💰 FREE TIER INCLUDED**: Uses Google Custom Search JSON API with 100 free searches daily - no subscription fees like other search services
+- **🔗 DIRECT GOOGLE API**: Official Google integration means reliable, up-to-date results without middleman costs
+- **💸 COST-EFFECTIVE**: Only pay Google directly if you exceed free tier (vs. expensive monthly subscriptions for other search MCPs)
+- **🚀 PRODUCTION-READY**: Enterprise-grade reliability without enterprise pricing
 
 ## Features
 
@@ -189,12 +196,24 @@ The server handles various error conditions:
 - **Network timeouts**: 10-second timeout with appropriate error messages
 - **Invalid queries**: Validation of empty or invalid search queries
 
-## Rate Limits
+## Rate Limits & Cost Comparison
 
-Google Custom Search JSON API has the following limits:
-- **Free tier**: 100 queries per day
+### Google Custom Search JSON API Limits
+- **Free tier**: 100 queries per day (FREE!)
 - **Paid tier**: Up to 10,000 queries per day
 - **Per request**: Maximum 10 results per search
+
+### 💰 Cost Comparison vs. Other Search Services
+
+| Service | Free Tier | Paid Plans | Monthly Cost (1000 searches) |
+|---------|-----------|------------|------------------------------|
+| **This MCP (Google Direct)** | ✅ 100/day FREE | $5/1000 queries | ~$5 |
+| Serper API | ❌ None | $50/month | $50+ |
+| SearchAPI | ❌ None | $20/month | $20+ |
+| SerpApi | ❌ None | $25/month | $25+ |
+| Bing Search API | 1000/month | $4/1000 queries | ~$4 |
+
+**Savings: Up to $600+ per year compared to premium search services!**
 
 ## Troubleshooting
 

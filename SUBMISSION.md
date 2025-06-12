@@ -2,7 +2,14 @@
 
 ## Overview
 
-This is a Model Context Protocol (MCP) server that provides Google search functionality with intelligent result summarization. It's designed to integrate seamlessly with AI assistants like Cline to enable web search capabilities.
+💰 **Save Money with Direct Google API Access!** This MCP server provides Google search functionality with intelligent result summarization using Google's official API with 100 free searches per day - eliminating the need for expensive third-party search services.
+
+## 🎯 Key Selling Points
+
+- **💰 FREE TIER INCLUDED**: 100 free Google searches daily vs. costly monthly subscriptions
+- **🔗 DIRECT GOOGLE API**: No middleman fees - pay Google directly only if you exceed free tier
+- **💸 MASSIVE COST SAVINGS**: Avoid $20-50/month search API subscriptions
+- **🚀 ENTERPRISE RELIABILITY**: Official Google API means consistent, reliable results
 
 ## Key Features
 
@@ -81,12 +88,15 @@ Unlike basic search tools, this server provides two modes:
 - **TypeScript Implementation**: Full type safety and IDE support
 
 ### ⚡ **Why Choose This Over Alternatives**
-- **No Rate Limit Surprises**: Clear error messages about Google API limits (100 free searches/day)
-- **Domain Intelligence**: Groups results by source, helping identify authoritative vs. casual sources
-- **Two Tools, One Server**: Both raw data and intelligent summaries in a single, lightweight package
-- **Community-First**: Built specifically for MCP ecosystem with Cline users in mind
+- **💰 HUGE COST SAVINGS**: 100 free searches/day vs. $20-50/month for other search APIs
+- **🔗 NO MIDDLEMAN MARKUP**: Pay Google directly at their rates, not inflated reseller prices
+- **📊 TRANSPARENT PRICING**: Clear Google API pricing - no hidden fees or surprise charges
+- **🚫 NO VENDOR LOCK-IN**: Use Google's official API - switch anytime without proprietary dependencies
+- **🎯 DOMAIN INTELLIGENCE**: Groups results by source, helping identify authoritative vs. casual sources
+- **🛠️ TWO TOOLS, ONE SERVER**: Both raw data and intelligent summaries in a single, lightweight package
+- **👥 COMMUNITY-FIRST**: Built specifically for MCP ecosystem with Cline users in mind
 
-**Bottom Line**: This server makes Cline dramatically more powerful by giving it access to the entire web while intelligently organizing results. It's like giving your AI assistant a research team.
+**Bottom Line**: This server makes Cline dramatically more powerful by giving it access to the entire web while saving you hundreds of dollars annually compared to other search services. It's like giving your AI assistant a research team at Google's direct pricing.
 
 ## Testing
 

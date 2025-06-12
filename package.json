@@ -1,7 +1,7 @@
 {
   "name": "google-search-mcp",
   "version": "1.0.0",
-  "description": "Google Search MCP Server - Provides Google search functionality with intelligent result summarization for AI assistants",
+  "description": "Google Search MCP Server - Save money with Google's official API (100 free searches/day) vs expensive third-party search services. Provides intelligent result summarization for AI assistants.",
   "private": false,
   "type": "module",
   "bin": {
@@ -33,7 +33,10 @@
     "model-context-protocol",
     "google-search",
     "ai-assistant",
-    "search-api"
+    "search-api",
+    "free-tier",
+    "cost-effective",
+    "google-api"
   ],
   "author": "Your Name",
   "license": "MIT"
